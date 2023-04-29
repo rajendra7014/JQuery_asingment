@@ -1,0 +1,19 @@
+• What is JQuery?
+=> Query is a small, fast and lightweight JavaScript framework/library. 
+jQuery is platform-independent. jQuery means "write less do more".
+
+
+• How to Apply CSS Using JQuery, How to Add Class and Remove Class in JQuery, JQuery Animation?
+=>jQuery - Get and Set CSS Classes
+addClass() - Adds one or more classes to the selected elements.
+removeClass() - Removes one or more classes from the selected elements.
+toggleClass() - Toggles between adding/removing classes from the selected elements.
+css() - Sets or returns the style attribute.
+
+
+• How to create slider with animation? 
+=>Step 1: Come up with a strategy for the slider. You can make as many modifications as you want to, Slider Revolution templates. ...
+Step 2: Update the background image in each slide. ...
+Step 3: Update the text layers in each slide. ...
+Step 4: Edit the button text and design in each slide. ...
+Step 5: Edit the slider navigation.
